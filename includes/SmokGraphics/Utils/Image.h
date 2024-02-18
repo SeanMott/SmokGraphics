@@ -4,7 +4,7 @@
 
 #include <BTDSTD_C/Types.h>
 
-#include <vma/vk_mem_alloc.h>
+#include <vk_mem_alloc.h>
 
 #if defined(__cplusplus)
 extern "C" {

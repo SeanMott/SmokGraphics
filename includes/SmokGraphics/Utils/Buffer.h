@@ -4,7 +4,7 @@
 
 #include <BTDSTD_C/Logger.h>
 
-#include <vma/vk_mem_alloc.h>
+#include <vk_mem_alloc.h> //<vma/vk_mem_alloc.h>
 
 	//defines a buffer create info
 	typedef struct SMGraphics_Util_Buffer_CreateInfo

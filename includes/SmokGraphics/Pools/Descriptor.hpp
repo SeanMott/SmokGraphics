@@ -6,6 +6,7 @@
 
 #include <SmokGraphics/Utils/Buffer.h>
 #include <SmokGraphics/Utils/Uniforms.hpp>
+#include <SmokGraphics/Pools/CommandPool.h>
 
 #include <unordered_map>
 
